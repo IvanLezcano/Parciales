@@ -336,6 +336,6 @@ let listaDeDescansoDeRileyPersonalizada = [new AsentarRecuerdos(Riley), new prof
   Riley.vivirEvento("LA ECONOMIA CALLO EVENTO TRISTE XDXD")
   Riley.vivirEvento("HOY oi una cancion de ghost, soy metalero gotico jajajsasjas")
   Riley.vivirEvento("hace frio, emocionado por el verano")
-  Riley.vivirEvento("hace calor, esperando el invierno")
+  Riley.vivirEvento("hace calor, esperando el invierno del 45")
 
    console.log(Riley.emocionDelMomento)
